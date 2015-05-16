@@ -1,0 +1,22 @@
+{
+  "name": "Hard interface in backbone",
+  "version": "0.0.0",
+  "authors": [
+    "bugr43 <bugr43@gmail.com>"
+  ],
+  "description": "Выполнение статьи с Хабра",
+  "main": "index.html",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "backbone": "~1.2.0",
+    "underscore": "~1.8.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
